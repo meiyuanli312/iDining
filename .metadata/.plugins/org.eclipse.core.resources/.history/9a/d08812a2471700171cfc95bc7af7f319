@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+	<html>
+		<head>
+			<meta charset="UTF-8">
+			<title>Restaurant Recommendation</title>
+		</head>
+		<body>
+			<div class ="top-header">
+				<div class="avatar"></div>
+				<nav class="top-nav"></nav>
+			</div>
+			<div class="container">
+				<header>
+					<p>Restaurant Recommendation</p>
+				</header>
+				<div class="main-section">
+					<nav class="nav-icon">
+						<p class="nav-icon"></p>
+						<a href="#" id="nearby-btn" class="main-nav-btn">
+         					 Nearby
+       					 </a>
+				        <a href="#" id="fav-btn" class="main-nav-btn">
+				          	My Favorites
+				        </a>
+				        <a href="#" id="recommend-btn" class="main-nav-btn">
+				         	 Recommendation
+				        </a>	
+					</nav>
+					<ul class="restaurant-list">
+						<li class="restaurant">
+				          <img alt="restaurant image" src="https://s3-media3.fl.yelpcdn.com/bphoto/EmBj4qlyQaGd9Q4oXEhEeQ/ms.jpg" />
+				          <div>
+				            <a href="#">Restaurant</a>
+				            <p class="category">Vegetarian</p>
+				            <div class="stars">
+				              <p class="heart"></p>
+				              <p class="heart"></p>
+				              <p class="heart"></p>
+				            </div>
+				          </div>
+				          <p class="description">699 Calderon Ave<br/>Mountain View<br/> CA</p>
+				          <p class="fav-link"></p>
+				        </li>
+						
+					</ul>
+				</div>
+				<footer>
+			   		<p class="title">What We Do</p>
+					<p>"Help you find the best restaurant around."</p>
+				  	<ul>
+				    	<li>
+				      		<p>MEIYUAN LI, CA</p>
+				    	</li>
+				    	<li>
+				      		<p>meiyuanli312@gmail.com</p>
+				    	</li>
+				    	<li>
+				      		<p>+1 669 264 4478</p>
+				    	</li>
+				  	</ul>
+				</footer>
+			</div>
+		</body>
+	</html>
