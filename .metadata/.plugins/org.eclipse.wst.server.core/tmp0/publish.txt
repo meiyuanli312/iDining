@@ -1,3 +1,0 @@
-#Tomcat publish data
-#Mon Apr 03 10:59:51 PDT 2017
-org.eclipse.jst.jee.server\:iDining=/Users/Meiyuan/Downloads/apache-tomcat-9.0.0.M17/wtpwebapps/iDining

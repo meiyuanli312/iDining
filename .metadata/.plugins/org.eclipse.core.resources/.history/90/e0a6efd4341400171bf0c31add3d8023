@@ -1,5 +1,0 @@
-package dbpackage;
-
-public interface DBConnection {
-
-}
